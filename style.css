@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background-image: linear-gradient(to top right, #76FF03, #FF6D00);
+    font-family: cursive;
+
+}
+
+#gif {
+    width: 500px;
+}
+
+#text {
+    width: 375px;
+    height: 401px;
+}
+
+#last {
+    width: 440px;
+    height: 401px;
+}
